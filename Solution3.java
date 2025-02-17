@@ -1,5 +1,5 @@
 
-class Solution3 {
+class Solution {
     public ListNode deleteDuplicates(ListNode head) {
         if (head == null) {
             return head;
